@@ -1,0 +1,5 @@
+C:\Users\Beauty Glance\Desktop\36\obj\Debug\net7.0\36.csproj.AssemblyReference.cache
+C:\Users\Beauty Glance\Desktop\36\obj\Debug\net7.0\36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beauty Glance\Desktop\36\obj\Debug\net7.0\36.AssemblyInfoInputs.cache
+C:\Users\Beauty Glance\Desktop\36\obj\Debug\net7.0\36.AssemblyInfo.cs
+C:\Users\Beauty Glance\Desktop\36\obj\Debug\net7.0\36.csproj.CoreCompileInputs.cache
